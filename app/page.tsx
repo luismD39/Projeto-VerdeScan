@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <main style={{ maxWidth: 480, margin: "0 auto", padding: 24, textAlign: "center" }}>
-      <h1>🌿 FitoScan</h1>
+      <h1>VerdeScan</h1>
 
       <select
         value={especie}
